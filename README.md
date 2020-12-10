@@ -151,3 +151,9 @@ Totally model was trained for `2` epochs.
 ## Glimpse of the output
 
 ![alt text][image2]
+
+You can also find the entire video output file (`video.mp4`) in this repository.
+
+## Room for improvement
+
+The model was not able to perform better in the second track. So for generalizing well, data may be collected for the second track extensively and trained again with more augmented image for generalizing well for the second track.
