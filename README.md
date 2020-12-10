@@ -112,8 +112,6 @@ Non-trainable params: 0
 _________________________________________________________________
 </pre>
 
-My model consists of a convolution neural network with 3x3 filter sizes and depths between 32 and 128 (model.py lines 60-76) 
-
 The model includes `ReLU` activation function to introduce nonlinearity it is also a non-saturating activation.
 Data is normalized in the before training using a Keras lambda layer between the `(converted to range of -1 to 1)`
 
